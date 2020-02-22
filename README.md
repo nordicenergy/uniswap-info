@@ -8,7 +8,7 @@
 
 Transaction and liquidity pool stats for [Uniswap](https://uniswap.nordicenergy.io).
 
-Check it out live: [https://uniswap.nordicenergyinfo](https://uniswap.nordicenergy.info).
+Check it out live: [https://uniswap.nordicenergy.info](https://uniswap.nordicenergy.info).
 
 ### To Start Development
 
